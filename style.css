@@ -1,0 +1,25 @@
+#gameDiv {
+    font-family: 'Brush Scriptm MT', cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 170px 10px ;
+    background-color: lightgray;
+    text-align: center;
+    height: 330px;
+}
+
+.choiceBtn {
+    line-height: 30px;
+    width: 150px;
+    background-color: rgb(89, 211, 211);
+    border-radius: 15px;
+    margin: 20px;
+}
+
+#playerText {
+    color: rgb(50, 183, 50);
+}
+
+#computerText {
+    color: rgb(193, 14, 73);
+}
